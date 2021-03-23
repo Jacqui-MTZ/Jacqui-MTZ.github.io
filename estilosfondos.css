@@ -1,0 +1,43 @@
+body{
+  background-color:#d9d9d9;
+}
+h1{
+  color: tomato;
+  text-align: center;
+  font-size:30px;
+  font-family:Arial;
+  text-shadow: 2px 2px 5px black;
+}
+h2{
+  color:blue;
+  font-size: 30px;
+  text-align: center;
+  font-style:italic;
+}
+p{
+  font-family:Arial;
+  font-size:20px;
+}
+.pa{
+  text-decoration: underline;
+}
+
+img{
+height:400px;
+  
+}
+
+td,th{
+      border: 2px solid #000000;
+      padding:8px
+      font-size:30px;
+      font-family:Arial;
+    }
+    
+    caption{
+      font-size:20px;
+      
+    }
+   
+  
+
