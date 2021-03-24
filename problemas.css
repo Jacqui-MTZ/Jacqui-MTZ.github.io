@@ -1,0 +1,44 @@
+body{
+  background-color:#e6fff2;
+  text-align: center;
+}
+
+.aumento {
+  background-color:#99ffcc;
+  width:80%;
+  font-size:30px;
+  font-family:Arial;
+}
+
+.comisiones {
+  background-color:#00cc66;
+  width:80%;
+  font-size:30px;
+  font-family:Arial;
+  
+}
+
+.estrategia {
+  background-color:#4dff4d;
+  width:80%;
+  font-size:30px;
+  font-family:Arial;
+}
+
+h1{
+  color:#ff9999;
+  font-size:30px;
+  font-family:Arial;
+  text-shadow: 2px 2px 5px black;
+}
+
+h2{
+  color:#99ccff;
+  font-size:30px;
+  font-family:Arial;
+  text-shadow: 2px 2px 5px black;
+}
+
+img{
+  height:600px;
+}
