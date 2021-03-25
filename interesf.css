@@ -1,0 +1,61 @@
+body{
+  background-color:#d1dffa;
+  text-align:center;
+}
+
+h1{
+  color:#ff6666;
+  fon-size:40px;
+  font-family:courier new;
+  text-shadow: 2px 2px 5px white;
+}
+h2{
+  color:black;
+  fon-size:30px;
+  font-family:courier new;
+  text-shadow: 2px 2px 5px white;
+}
+
+p{
+  font-family:Arial;
+  font-size:15px;
+}
+
+img{
+  height:600px;
+}
+
+
+caption{
+  font-size:20px;
+  font-family:Arial;
+  color:#6a6ae2;
+}
+
+td,th{
+  border: 2px solid #000000;
+      padding:10px
+    }
+
+  
+.negro:hover{color:#fff!important;background-color:#000!important}
+
+.Azul:hover{color:#fff!important;background-color:#3f3fd9;!important}
+
+.naranja:hover{color:#fff!important;background-color:#ff8533;!important}
+
+.rojo:hover{color:#fff!important;background-color:#ff1a1a;!important}
+
+
+.rosa:hover{color:#fff!important;background-color:#ff66b3;!important}
+
+.amarillo:hover{color:#fff!important;background-color:#ffff66;!important}
+
+.gris:hover{color:#fff!important;background-color:#ccccb3;!important}
+
+.cafe:hover{color:#fff!important;background-color:#cc9966;!important}
+
+.morado:hover{color:#fff!important;background-color:#ecb3ff;!important}
+
+
+  
